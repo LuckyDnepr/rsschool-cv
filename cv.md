@@ -1,4 +1,5 @@
 <img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/avatar.png" height="200">
+
 # Dmytro Laykov
 
 ## Contacts
