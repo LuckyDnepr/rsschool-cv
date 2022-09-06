@@ -10,10 +10,10 @@
 * **<img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/github-icon.png" height="22">** [LuckyDnepr](https://github.com/LuckyDnepr)
 
 ## About Me
-I love **math** and **algorithms**.
-Was an entrepreneur, but due to the war started by Russia, decided to **change the profession**.
-**Married**. Have two **children**.
-Did a little self-training in **JavaScript, HTML and CSS**.
+I love **math** and **algorithms**.  
+Was an entrepreneur, but due to the war started by Russia, decided to **change the profession**.  
+**Married**. Have two **children**.  
+Did a little self-training in **JavaScript, HTML and CSS**.  
 I want to pump my knowledge to find a job as a **Frontend** developer.
 
 ## Hardskills
