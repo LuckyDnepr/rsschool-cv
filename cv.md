@@ -1,13 +1,13 @@
-<img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/avatar.png" height="200">
+<img src="./pics/avatar.png" height="200">
 
 # Dmytro Laykov
 
 ## Contacts
 
-* **<img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/location-icon.png" height="22">** Dnipro, <img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/ukraine-icon.png" height="18">
-* **<img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/phone-icon.png" height="22"> <img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/telegram-icon.png" height="22">**  +380504812821, +380974185265
-* **<img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/mail-icon.png" height="22">** LuckyDnepr@gmail.com
-* **<img src="https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/github-icon.png" height="22">** [LuckyDnepr](https://github.com/LuckyDnepr)
+* **<img src="./pics/location-icon.png" height="22">** Dnipro, <img src="./pics/ukraine-icon.png" height="18">
+* **<img src="./pics/phone-icon.png" height="22"> <img src="./pics/telegram-icon.png" height="22">**  +380504812821, +380974185265
+* **<img src="./pics/mail-icon.png" height="22">** LuckyDnepr@gmail.com
+* **<img src="./pics/github-icon.png" height="22">** [LuckyDnepr](https://github.com/LuckyDnepr)
 
 ## About Me
 I love **math** and **algorithms**.  
