@@ -25,6 +25,7 @@ I want to pump my knowledge to find a job as a **Frontend** developer.
     * English (pre-intermediate)
     * Russian
     * Ukrainian
+
 ## Coding example
 #### Codewars Kata
 Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
@@ -33,12 +34,14 @@ Examples
 "This is an example!" ==> "sihT si na !elpmaxe"
 "double  spaces"      ==> "elbuod  secaps"
 ```
+
 **Solution**
 ```js
 function reverseWords(str) {
   return str.split(' ').map( str => str.split('').reverse().join('') ).join(' ');
 }
 ```
+
 ## Experience
 * Self-learning Javascript from Youtube, MDN
 * Stage#0 on the Kottans/FrontEnd course
