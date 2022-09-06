@@ -1,4 +1,4 @@
-![avatar](https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/photo/avatar.png)
+![avatar](https://github.com/LuckyDnepr/rsschool-cv/blob/gh-pages/pics/avatar.png)
 # Dmytro Laykov
 
 ## Contacts
